@@ -6,4 +6,4 @@ This code is used to train various models like resnet, vgg, alexnet etc.. Differ
 
 Furthermore there is a script that saves important parameters of the trained models. These parameters include: accuracy on training set per epoch, loss on traing set per epoch, accuracy on validation set per epoch, loss on validations et per epoch and a confusion matrix.
 
-By: J. Argelo, A.M. Bos, S.J. Kiesouw, F. Remeeus, P.W.J de Wolf
+By J. Argelo, A.M. Bos, S.J. Kiesouw, F. Remeeus, P.W.J de Wolf
