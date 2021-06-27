@@ -1,6 +1,6 @@
 # hashgroup
 
-Welcome to the code that was used during the project "Image augmentation for improvingroad defect classifiers". Because the dataset used during this project is classified the code can't run on this specific dataset. To test the code the user could train the model on a different dataset.
+Welcome to the code that was used during the project "Image augmentation for improving road defect classifiers". Because the dataset used during this project is classified, the code can't run on this specific dataset. To test the code the user could train the model on a different dataset.
 
 This code is used to train various models like resnet, vgg, alexnet etc.. Different paramters can be tweeked like batch-size, amount of epochs etc.. The thing that is most important in this piece of code is the fact that augmentations can be added, these augmentations are all the augmentations in the TORCHVISION.TRANSFORMS package.
 
